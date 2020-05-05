@@ -1,9 +1,11 @@
 body {
 	margin: 0;
 	font-family: Helvetica;
+	background-color: #090621;
 }
 h1 {
 	font-weight: 100;
+	color: #C1C4D3;
 }
 
 #screenshot {
